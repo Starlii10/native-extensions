@@ -30,7 +30,7 @@ CPMAddPackage(
   GIT_TAG main
 )
 
-set(EXTENSIONS "example") # Edit this to add new extensions
+set(EXTENSIONS "example" "skyhigh173JSON") # Edit this to add new extensions
 
 include(CheckIncludeFile)
 
