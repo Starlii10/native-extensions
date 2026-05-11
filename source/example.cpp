@@ -1,4 +1,4 @@
-#include <os.hpp>
+#include <log.hpp>
 #include <runtime/blocks/blockUtils.hpp>
 
 SCRATCH_BLOCK(example, example) {

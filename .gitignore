@@ -1,3 +1,7 @@
 romfs/
 build/
 cmake/CPM.cmake
+
+scratch-everywhere/
+
+.DS_Store

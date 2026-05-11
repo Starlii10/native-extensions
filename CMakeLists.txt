@@ -26,11 +26,11 @@ set(ENABLE_CJSON_TEST OFF)
 CPMAddPackage(
   NAME ScratchEverywhere
   GITHUB_REPOSITORY ScratchEverywhere/ScratchEverywhere
-  VERSION 0.40
+  VERSION 1.0-rc1
   GIT_TAG main
 )
 
-set(EXTENSIONS "example" "skyhigh173JSON") # Edit this to add new extensions
+set(EXTENSIONS "example" "skyhigh173JSON" "fetch") # Edit this to add new extensions
 
 include(CheckIncludeFile)
 
