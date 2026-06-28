@@ -14,5 +14,5 @@ Everywhere!, it must be built on the **same system**, using the **same
 compiler** and the **same arguments**, with the **same version of Scratch
 Everywhere!**.
 
-Instructions for building Scratch Everywhere can be found on the
+Instructions for building Scratch Everywhere! can be found on the
 [website](https://scratcheverywhere.github.io/build).
