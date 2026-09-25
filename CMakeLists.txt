@@ -26,7 +26,7 @@ set(ENABLE_CJSON_TEST OFF)
 CPMAddPackage(
   NAME ScratchEverywhere
   GITHUB_REPOSITORY ScratchEverywhere/ScratchEverywhere
-  VERSION 1.0-rc1
+  VERSION 1.1
   GIT_TAG main
 )
 
